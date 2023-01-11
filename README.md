@@ -1,1 +1,1 @@
-# MachineLearningAlgo
+# MachineLearningAlgorithm
